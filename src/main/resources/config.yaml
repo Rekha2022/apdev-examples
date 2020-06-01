@@ -1,0 +1,7 @@
+http:
+  port: "8081"
+  
+sfdc:
+  username: "sandeep.menon@njclabs.com"
+  password: "Njclabs@2020"
+  token: "v1Dw64gIeLnQo8WTi2Ms6f2Tw"
